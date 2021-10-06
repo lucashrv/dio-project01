@@ -1,0 +1,16 @@
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\bin\Debug\net5.0\dio-avanade-project01.exe
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\bin\Debug\net5.0\dio-avanade-project01.deps.json
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\bin\Debug\net5.0\dio-avanade-project01.runtimeconfig.json
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\bin\Debug\net5.0\dio-avanade-project01.runtimeconfig.dev.json
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\bin\Debug\net5.0\dio-avanade-project01.dll
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\bin\Debug\net5.0\ref\dio-avanade-project01.dll
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\bin\Debug\net5.0\dio-avanade-project01.pdb
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.csproj.AssemblyReference.cache
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.AssemblyInfoInputs.cache
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.AssemblyInfo.cs
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.csproj.CoreCompileInputs.cache
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.dll
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\ref\dio-avanade-project01.dll
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.pdb
+C:\Users\drave\OneDrive\Área de Trabalho\dio-avanade-project01\obj\Debug\net5.0\dio-avanade-project01.genruntimeconfig.cache
